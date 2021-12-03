@@ -5,6 +5,10 @@
     background-color: #E5E5E5;
     font-family: 'Roboto', sans-serif;
 }
+main{
+    border: 1px solid #E5E5E5;
+    border-shadow: -3px 3px 3px rgba(0, 0, 0, 0.09);
+}
 a{
     text-decoration: none;
 }
